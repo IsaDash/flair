@@ -1,0 +1,1267 @@
+__label__AI	Axionable opening artificial intelligence lab in Montreal - BetaKit: Axionable opening artificial intelligence lab... https://t.co/LF0QM26lau
+__label__Cloud	"Just Store Your Bitcoins in Cloud Wallet &amp; Earn Daily 0.3% Cloud Tokens
+
+ CLOUD TOKEN 4th Generation Blockchain Te... https://t.co/mqNu6lJ5sM"
+__label__AI	Artificial intelligence receiving huge Kubernetes boost - VanillaPlus - VanillaPlus: Artificial intelligence receiv... https://t.co/pF9cwchShQ
+__label__Cloud	"<p>I have two point cloud set <code>A</code> and <code>B</code> in 3D space. Every point's coordinates are known. If two points have same coordinates,  we think they are same.</p>
+
+<p><strong>I want to find the same point in point cloud <code>A</code> and point cloud <code>B</code>.</strong></p>
+
+<p>I think Octree can handle this problem.</p>
+
+<p>My solution is:</p>
+
+<p>We can construct an octree <code>T</code> which divide set <code>B</code>'s space zone into many small zones. Every zones in octree <code>T</code> contains few point. Tranversing every point <code>P</code> in set <code>A</code>, we find the smallest zone <code>Z</code> in octree <code>T</code> which contain <code>P</code>. Then we using coordinates to compare all the point in zone <code>Z</code> with point <code>P</code>.</p>
+
+<p><strong>I don't know if I use of the octree correctly.</strong></p>
+
+<p><strong>I don't know what is the most efficient way to solve this problem.</strong></p>
+
+<p>Any suggestions?</p>
+"
+__label__Cloud	RT @CloudMakerAI: Want to deploy cloud solutions quickly and accurately? Our Cloud Maker AI can help you draw beautiful cloud architecture...
+__label__Cloud	"<p>The behavior you are describing matches with the <a href=""https://cloud.google.com/shell/docs/limitations"" rel=""nofollow noreferrer"">limitations of Cloud Shell</a>. I'm not saying you are connecting the the GCP Cloud Shell instead of your VM Instance, however some users have confused his VMs terminals with Cloud Shell in the past. </p>
+
+<p>Is this only happening for Python or any other package? Please review you have enough space available in your Filesystems and that you are not installing the package in a volatile Filesystem partition.   </p>
+"
+__label__AI	Investing in Artificial intelligence - What Investment: Investing in Artificial intelligence  What Investment AI is... https://t.co/FiFzyvVEPI
+__label__AI	Democrats target Artificial Intelligence over... bias? - Hot Air: Democrats target Artificial Intelligence over...... https://t.co/83V11rqCSn
+__label__Cloud	"<p>are you still looking for help on this topic or already figured this out? If so, could you please share your findings with the group?</p>
+"
+__label__AI	Ethical Dimensions of Using Artificial Intelligence in Health Care - Artificial intelligence (AI), https://t.co/CcMx61np6T #ai
+__label__Cloud	"<p>What I want to do:
+use python script to login the vm in openstack environment</p>
+
+<p>What I did so far:</p>
+
+<ol>
+<li><p>I used CLI: <code>openstack keypair create abc &gt; /root/keydir/abc</code> to create openstack keypair and use <code>chmod 600 abc</code> to change the
+permission</p></li>
+<li><p>Then I create a vm from dashboard and use the key which I created just now</p></li>
+<li><p>I set up the vm and wait it to the right state</p></li>
+<li><p>At last I use this command in controller node:</p></li>
+</ol>
+
+<pre><code>ip netns exec qdhcp-c8db7805-c5e8-aaaa-xxxx-xxxxx ssh -i /root/keydir/abc
+root@192.168.111.104(vm's ip) ""ping 127.0.0.1 -c 10 ""
+</code></pre>
+
+<ol start=""5"">
+<li><p>When I run this in python, it shows me: <code>Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password)</code>.</p></li>
+<li><p>I run the command in Linux directly it prompt me to input password, and this not the result I want</p></li>
+</ol>
+
+<p>Why doesn't the keypair work?</p>
+"
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__Cloud	@Zhang, The bucket exist in cloud storage and the same name I&#39;m using in oython code there it&#39;s working fine
+__label__Cloud	"RT @MichaelNishiki: IBM BrandVoice: In The ""Second Wave"" Of Cloud Computing, Hybrid Cloud Is The Innovator's Choice: In the cloud business,..."
+__label__Cloud	Hybrid Cloud session...
+__label__AI	Artificial Intelligence Seeing Massive Surge in Education (Campus Technology) - Artificial intelligence is mak https://t.co/fB4xgT9AEG #ai
+__label__Cloud	"Cloud Migration: Are You Cloud Ready?
+https://t.co/9OE6qN4ua0
+
+#Cloud #CloudTech #CloudComputing #CloudMigration https://t.co/rZfAfoJzrU"
+__label__AI	Artificial intelligence projects now prolific across SA firms - ITWeb: Artificial intelligence projects now prolifi... https://t.co/lmSfdIl86W
+__label__AI	Tiny bee brains could reveal solutions for miniaturizing artificial intelligence - Artificial intelligence has https://t.co/vvH9mbm2Mr #ai
+__label__AI	Artificial Intelligence #BigData #artificialintelligence  https://t.co/X3AV4nl6PJ
+__label__Cloud	"RT @amira95269580: Amazon Cloud Cam review-Amazon Cloud Cam coupon-Amazon Cloud Cam discoun... https://t.co/AAXKL2jzvB via @YouTube
+for mor..."
+__label__AI	RT @jose_garde: What is Artificial Intelligence | Artificial Intelligence Tutorial For Beginners by @edurekain #ai https://t.co/zS4mzwKFzK...
+__label__AI	RT @into_AI: Form 10-Q/A Artificial Intelligence For: Nov 30 - Artificial Intelligence Techno https://t.co/Dou5M9Tm6I #ai
+__label__Cloud	"<p>You have to use <a href=""https://pub.dev/packages/firebase_messaging"" rel=""nofollow noreferrer"">Firebase Cloud Messaging</a>.</p>
+
+<p>Take a look on this example: <a href=""https://github.com/flutter/plugins/blob/master/packages/firebase_messaging/example/lib/main.dart"" rel=""nofollow noreferrer"">https://github.com/flutter/plugins/blob/master/packages/firebase_messaging/example/lib/main.dart</a></p>
+"
+__label__AI	Can artificial intelligence improve aerial dogfighting? - C4ISRNet: Can artificial intelligence improve aerial dogf... https://t.co/5wVpJ8g0eR
+__label__AI	Artificial Intelligence Engines https://t.co/D8fLYjiGH8 #machinelearning
+__label__AI	Abu Dhabi Media plans first artificial intelligence news anchor - An artificial intelligence (AI https://t.co/N9EABZ5Rkl #ai
+__label__AI	RT @into_AI: How Artificial Intelligence Can Help In Medicine - Artificial Intelligence (AI) i https://t.co/C9sFDJq5zA #ai
+__label__AI	The Practical Limitations Artificial Intelligence Faces - Artificial Intelligence is cur https://t.co/XDoYm65iw6 #ai
+__label__Cloud	"<p>My colleague offers me a openFeign interface which is based in spring Cloud 2.x, i can't inject it in my service as usuall. (my spring cloud version is Edgware.RELEASE, and may be it may be the initiator of this problem),so what can i do to solve this problem?</p>
+"
+__label__Cloud	Generating a Cloud Services Platform API Token for Cloud Automation Services https://t.co/JQh8Tn2lb0
+__label__AI	First artificial intelligence Google Doodle features Bach - The Associated Press: First artificial intelligence Goo... https://t.co/u7sPeQrUvn
+__label__Cloud	"<p>I have 2 pages.</p>
+
+<p>Page One is use to add data to cloud firestore
+Page Two is used to query those documents'</p>
+
+<p>When i add data to cloud firestore, its causing me one write and one read, even when the page is not on the front view.</p>
+
+<p>How do i prevent causing document reads when the page is not in view?</p>
+"
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	Artificial Intelligence and tomosynthesis for breast cancer detection - Artificial Intelligence and to https://t.co/jLn7p2NNUK #ai
+__label__AI	Artificial Intelligence Predicting Which Patients Will Die Prematurely - DocWire News: Artificial Intelligence Pred... https://t.co/1Z1P7RXZAj
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__Cloud	"<p>i'm deploying firebase cloud functions to listen on changes in our firestore via continuous deployment.</p>
+
+<p>I can only find a way to activate retries <a href=""https://firebase.google.com/docs/functions/retries#enabling_and_disabling_retries"" rel=""nofollow noreferrer"">manually</a>. Which goes contrary to our cd approach.</p>
+
+<p>Looking at the normal <a href=""https://cloud.google.com/sdk/gcloud/reference/beta/functions/deploy#--retry"" rel=""nofollow noreferrer"">gcp cloud functions</a> the retry flag can be given when deploying. But i cannot find a similar option in the firebase-cli or the firebase-functions interface (2.1.0)</p>
+
+<p>Any hints on how to solve this?
+Carsten</p>
+"
+__label__AI	Samsung expands artificial intelligence lab in Montreal - MobileSyrup: Samsung expands artificial intelligence lab... https://t.co/e3YuS9SnXk
+__label__Cloud	"<p>I am trying to create a form on my website with reCaptcha.  However,  I am doing this severless through Firebase.  But now I am trying to figure out how one can valid the reCaptcha through Cloud functions.  If anyone has done this or used Firebase, cloud functions, can you please share and point me in the right direction or share code snippets, that would be great thanks. </p>
+"
+__label__AI	"We did research about how AI can be taught to joke. For our project we take
+meme dataset from iFunny and try to create a funny caption generator. There
+were several different approaches:
+
+  1. Searching nearest caption to theme of image by cluster
+
+  2. Searching nearest caption to theme of image by visual similarity
+
+  3. Transferring the image descriptor into the vector space of text descriptors
+
+  4. Generating captions using Markov Chains
+
+In more details you can read in our blog post <https://heartbeat.fritz.ai/can-
+artificial-intelligence-be-taught-how-to-joke-7c7d53a3492a>. We are happy to
+answer any questions about our work and discuss other approaches.
+
+"
+__label__AI	Artificial Intelligence -  https://t.co/9QSl30qBme #ai
+__label__Cloud	"<p>I tried to search if there is a way to add custom Cloud RoleName for API management resource? We have one Application Insights instance and we have all our applications for that environment use that App Insights instance. The question I have is how do we set a cloud roleName for API Management, I tried searching for it but couldnt find any? Any help on how this can be done? Any documentation.</p>
+
+<p>Thanks</p>
+"
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__Cloud	"<p>I have a few common approaches to Cloud Functions that transform the data:</p>
+
+<ol>
+<li><p>Write the transformed data to a different document than the one that triggers the Cloud Function. This is by far the easier approach, since there is no additional code needed - and thus I can't make any mistakes in it. It also means there is no additional trigger, so you're not paying for that extra invocation.</p></li>
+<li><p>Use granular triggers to ensure my Cloud Function only gets called when it needs to actually do some work. For example, many of my functions only need to run when the document gets created, so by using an <code>onCreate</code> trigger I ensure my code only gets run once, even if it then ends up updating the newly created document.</p></li>
+<li><p>Write the transformed data into the existing document. In that case I make sure to have the checks for whether the transformation is needed in place before I write the actual code for the transformation. I prefer to not add flag fields, but use the existing data for this check.</p>
+
+<p>A recent example is where I update an amount in a document, which then needs to be fanned out to all users:</p>
+
+<pre><code>exports.fanoutAmount = functions.firestore.document('users/{uid}').onWrite((change, context) =&gt; {
+  let old_amount = change.before &amp;&amp; change.before.data() &amp;&amp; change.before.data().amount ? change.before.data().amount : 0;
+  let new_amount = change.after.data().amount;
+  if (old_amount !== new_amount) {
+    // TODO: fan out to all documents in the collection
+  }
+});
+</code></pre></li>
+</ol>
+"
+__label__AI	Artificial Intelligence Beyond Deep Neural Networks - Artificial intelligence (AI) i https://t.co/usYNGtWyGJ #ai
+__label__Cloud	"<p>To update a document from console may be not triggered. The transactions of firestore is also.</p>
+
+<p>You should try to update a document using sdk.</p>
+
+<p>And I think <code>const {nick} = change.after.data();</code> is better than <code>const changednick = change.data().nick</code>.</p>
+
+<p>See <a href=""https://firebase.google.com/docs/functions/firestore-events"" rel=""nofollow noreferrer"">https://firebase.google.com/docs/functions/firestore-events</a> .</p>
+"
+__label__Cloud	Thank you for your help! but Cloud function&#39;s difficult to me yet... How can I send request with parameters??
+__label__Cloud	Veset cloud playout platform integrated with AWS cloud services https://t.co/65IULOhNnY #ContentDistribution... https://t.co/8XBE1S8Lrm
+__label__Cloud	New stuff from Google...Web Risk API, Cloud Armor &amp; Cloud HSM
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	Why Artificial Intelligence Is Crucial for Effective Cybersecurity - Artificial intelligence is not https://t.co/o5bsejmLUI #ai
+__label__AI	Artificial intelligence gains more acceptance in ophthalmology - Artificial intelligence (AI) i https://t.co/tRVSrITmx7 #ai
+__label__AI	RT @into_AI: Artificial Intelligence (AI) - Job Creators, Not Killers - While Artificial Intelligence https://t.co/77W2uiQadX #ai
+__label__AI	Artificial Intelligence - Hype Or The Real Deal - Artificial intelligence (AI) g https://t.co/MOAhXnAnCj #ai
+__label__AI	New artificial intelligence tool helps diagnose brain aneurysms - Tech Explorist: New artificial intelligence tool... https://t.co/6Naz4xNENE
+__label__Cloud	"<p>Sharding the counters to improve parallelism seems like a good idea. Cloud Spanner manages the older versions of the data in a different way than BigTable, so you may not hit the same limits. Spanner keeps old versions around for 1 hour. However you may want to take care in designing your schema to <a href=""https://cloud.google.com/spanner/docs/schema-design#choose_a_primary_key_to_prevent_hotspots"" rel=""nofollow noreferrer"">avoid hotspots</a>.</p>
+
+<p>I would recommend though that you try to implement a memory caching layer on top of Spanner. This could be used to:</p>
+
+<ol>
+<li>Batch some updates together.</li>
+<li>Do fast reads/counts.</li>
+</ol>
+
+<p>There will be some tradeoffs in possibly losing some updates if the cache goes away, but that may be acceptable if it is just caching likes/counts.</p>
+"
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	Artificial intelligence improves power transmission, researchers say - Utility Products: Artificial intelligence im... https://t.co/AhTnqE4hNU
+__label__Cloud	@RenaudTarnec Thanks for your reply, I&#39;ve just updated the code and yes it is part od a cloud function
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	Top-10 Artificial Intelligence Startups in Poland - Nanalyze: Top-10 Artificial Intelligence Startups in Poland  Na... https://t.co/XHdym8DGEX
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__Cloud	Managing VMware Cloud on AWS with Cloud Automation Services:  https://t.co/oJOeRv3OPX #WorldClassSupport... https://t.co/xAvezETa9H
+__label__Cloud	[Checklist] Enterprise Cloud Migration: Checklist for Enterprise Cloud Migration * Determine your cloud strategy *... https://t.co/9ZIJVGr1Mn
+__label__Cloud	Yes I have tried but not getting anything with app service all I am getting is cloud service and vm
+__label__Cloud	"That said: you can&#39;t really go wrong with <a href=""https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/"" rel=""nofollow noreferrer"">NoSQL data modeling</a>, and <a href=""https://www.youtube.com/playlist?list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ"" rel=""nofollow noreferrer"">Getting to know Cloud Firestore</a>. :)"
+__label__AI	The Potential for Artificial Intelligence - Toolbox: The Potential for Artificial Intelligence  Toolbox Enhancing C... https://t.co/2Me9oq4Bq3
+__label__AI	Artificial Intelligence -  https://t.co/FXHFGnszeU #ai
+__label__AI	Artificial Intelligence Could Humanize Healthcare - Fortune: Artificial Intelligence Could Humanize Healthcare  For... https://t.co/4dzPDWtfBR
+__label__Cloud	"<p>I'm not aware of any ongoing issues but I suggest contacting <a href=""https://cloud.google.com/support/"" rel=""nofollow noreferrer"">Google Cloud Support</a> if the issue persists.</p>
+"
+__label__Cloud	[google-cloud-sql-discuss] Re: Truncate Cloud SQL table using Cloud Admin API https://t.co/UZh6PKuWwt
+__label__AI	RT @into_AI: CMS Artificial Intelligence Health Outcomes Challenge - CMS Artificial Intelligence He https://t.co/Lq5YjxKvwj #ai
+__label__AI	Artificial Intelligence May Not 'Hallucinate' After All - WIRED: Artificial Intelligence May Not 'Hallucinate' Afte... https://t.co/Sh4diODSVi
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__Cloud	Cloud Solution Architect (AWS Cloud Architect) https://t.co/mnoaA2Sknm
+__label__Cloud	Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure https://t.co/XHhhoLdUT5  #datascience #ad
+__label__Cloud	"<p>If you don't use a manual configuration, spring boot has autoconfiguration.
+Inside this autoconfiguration:</p>
+
+<pre><code>spring-boot-autoconfigure/version/spring-boot-autoconfigure-version.jar
+</code></pre>
+
+<p>there is <code>GsonAutoConfiguration</code> with the annotation <code>@Configuration</code> and try to configure it: </p>
+
+<pre><code>@Bean
+@ConditionalOnMissingBean(GsonBuilder.class)
+public GsonBuilder gsonBuilder(List&lt;GsonBuilderCustomizer&gt; customizers) {
+    GsonBuilder builder = new GsonBuilder();
+    customizers.forEach((c) -&gt; c.customize(builder));
+    return builder;
+}
+
+@Bean
+@ConditionalOnMissingBean(Gson.class)
+public Gson gson(GsonBuilder gsonBuilder) {
+    return gsonBuilder.create();
+}
+</code></pre>
+
+<p>So if you don't want to inherit from spring boot parent you should exclude from the configuration all <code>@Configuration</code> that doesn't interest you, like for example:</p>
+
+<pre><code>@SpringBootApplication(exclude = {GsonAutoConfiguration.class})
+</code></pre>
+"
+__label__AI	How Can Artificial Intelligence Improve Medical Education? - Neurology Advisor: How Can Artificial Intelligence Imp... https://t.co/kD1Np1FQXA
+__label__AI	DOD's Artificial Intelligence Initiatives Outlined Before Senate - EIN News: DOD's Artificial Intelligence Initiati... https://t.co/uADxGTZoer
+__label__AI	"# AI as an enabler in IT Operations
+
+Artificial Intelligence has been a buzzword for quite some time now. Most
+experts consider it to be one of the four pillar stones for our next step in
+our technological evolution:
+
+  * Artificial Intelligence
+  * Robotics
+  * Blockchain
+  * Quantum computing
+
+But what is Artificial Intelligence and how does it benefit us in our daily
+work as Service Managers?
+
+In general, Artificial Intelligence tries to emulate human decision making
+structures. The core foundation of AI are big data streams and machine
+learning, allowing it to use algorithms to perform automated tasks, while
+self-training itself. Thus, many software vendors are incorporating such
+functionalities in their core products:
+
+  * IBM Watson
+  * Salesforce Einstein
+  * ServiceNow Automation Engine
+  * Microsoft Bot Framework
+
+The solutions mentioned above are only a few examples. Companies are now
+asking valid questions: How would a real-life scenario look like? What is the
+most beneficial area to fully utilize the power of AI? How mature is AI?
+
+Our answer is simple: There are various opportunities for AI and the
+application scope keeps increasing. In general, your AI solution will only be
+as powerful as your data and its quality. The data and its quality build the
+core foundation of your AI solution. It is the nutrition of which it feeds.
+
+If you have a glance at at more traditional IT departments, you will find
+several big pools containing large chunks of data. First you will look into
+your Business Intelligence area and Data Labs. But on a second thought you
+might also consider your IT Operations area. Modern IT Operations is build on
+top of ITIL (Information Technology Infrastructure Library), which gives you a
+clear framework on how to open tickets, changes and track long lasting issues.
+In larger enterprises it contains millions of data entries, which can be used
+to feed your Artificial Intelligence. Needless to say, that this only applies
+for ticketing tools which have a strong and global governance, which ensures
+the data quality of such entries. Given the right quality, there might be
+several business use-cases to justify the implementation of an Artificial
+Intelligence.
+
+### Customer (Self-) Service Agent
+
+Putting an AI into one of your central entry points for customers or internal
+employees, might provide everyone an easy way of accessing and requesting
+information, right at their fingertips. They can interact with it trough voice
+or chat, establishing an easy way to access an extensive service catalogue,
+open an automated ticket or simply providing a first level of troubleshooting.
+
+Extensive studies have shown, that chat based AI already covers approx. 5% of
+all internal customer interactions within the automotive industry. In the
+click-to-chat sector, China has positioned itself as a clear pioneer, having
+an adoption rate of over 25%. Being followed by the United Kingdom, Mexico and
+the United States of America. Chinaâs pole position among other leading
+nations can be directly linked to their high mobile usage rate and its
+widespread usage of chat clients, such as WeChat.
+
+### Predict outages
+
+Another practical use case is allowing machine learning algorithms to analyze
+and scan your system and/or platform health statistics. The information about
+outages and alerts, gives valuable insights into the overall reliability and
+resilience of your platform. Feeding such data into a machine learning
+application enables a pattern and trend analysis of your infrastructure.
+Allowing your team to recognize service interruptions and outages before they
+happen.
+
+Combining such a deployment with a Configuration Management Database (CDMB)
+and Change Management process can elevate your service maturity dramatically.
+Supporting an even more extensive risk and dependency assessment, while using
+historical data to showcase possible impacts and improvements, before
+deploying a change.
+
+### Major Incident Manager (comms, rooms etc.)
+
+Imagine taking an Artificial Intelligence and deploying it into an role of an
+Incident or even Major Incident Manager. The AI would be taking over standard
+tasks, empowering everyone else to fully focus on the issue at hand. It would
+not only recognize threats or outages, it would open a ticket, notify
+stakeholders and open a war room for the team to collaborate. During the Major
+Incident Process, the AI would not only be ensuring time tracking, but would
+also handle all documentations and also communication processes. Automatically
+preparing Stakeholder notifications and checking in with the Task Force or
+Service Owner to validate the content, before sending it out.
+
+The AI would of course not only be connected to your ticketing and monitoring
+platforms, but also to your collaboration tools, such as Slack or Microsoft
+Teams. Directly engaging with the team in the channel, using the chat content
+to update tickets and prepare the communication channels. The AI could also
+make predictions based on historical data and provide an analysis of changes
+and deployments â bases on earlier mentioned use-cases."
+__label__AI	RT @into_AI: Artificial intelligence can diagnose PTSD: Study - A new artificial intelligence https://t.co/tIs5kn8bO2 #ai
+__label__Cloud	"<p>Fixed the issue, instead of creating the bean with default constructor, created with default value with serviceId and namesapce, as shown below.</p>
+
+<pre><code>  @Bean
+    public IClientConfig ribbonClientConfig() {
+        return DefaultClientConfigImpl.getClientConfigWithDefaultValues(serviceId, DEFAULT_NAMESPACE);
+    }
+</code></pre>
+"
+__label__Cloud	"<p>Currently, Cloud Functions does not allow one to create a function that receives messages for a topic in a different project. Therefore, specifying the full path including ""projects/pubsub-public-data"" does not work. The <code>gcloud</code> command to deploy a Cloud Function for a topic expects the topic name only (and not the full resource path). Since the full resource path contains the ""/"" character, it is not a valid specification and results in the error you see.</p>
+"
+__label__Cloud	"<p>I was facing a similar challenge as you describe. My starting point was <a href=""https://github.com/spring-cloud/spring-cloud-task/tree/master/spring-cloud-task-samples/partitioned-batch-job"" rel=""nofollow noreferrer"">this example</a> that demonstrates how you can horizontally scale your batch processing by sending partitions to multiple worker nodes. However, spinning up a worker for each single partition did not provide the scalability I needed. That's why I created implementations of PartitionHandler and StepExecutionHandler that are able to execute multiple partitions on each worker. You can find the details of my solution in <a href=""https://stackoverflow.com/a/55221470/4767829"">this answer</a>.</p>
+"
+__label__AI	Artificial intelligence cuts lung cancer screening false positives - EurekAlert: Artificial intelligence cuts lung... https://t.co/535vCW5gMG
+__label__AI	Could Artificial Intelligence help us choose better economic policies? | Artificial Intelligence is indeed artifici... https://t.co/asCijucfUn
+__label__AI	AI artificial intelligence future: Ethics of machine-learning robots - The Advertiser: AI artificial intelligence f... https://t.co/pBaV2gjxTt
+__label__AI	Artificial intelligence takes center stage at Facebook's F8 conference - Artificial intelligence takes https://t.co/VlO4NaTKWP #ai
+__label__Cloud	Deep Dive: Accelerate Your Cloud Migration with VMware Cloud on AWS https://t.co/gtTPDy1H5d
+__label__AI	RT @into_AI: BCW Wins 2019 Artificial Intelligence Excellence Award - Artificial Intelligence driven https://t.co/vXI8Yyt0SH #ai
+__label__Cloud	Cisco Cloud ACI for AWS Demo 1: Cloud APIC Deployment - https://t.co/GV52mfNlBi
+__label__Cloud	RT @CloudMakerAI: Want to deploy cloud solutions quickly and accurately? Our Cloud Maker AI can help you draw beautiful cloud architecture...
+__label__AI	Ethical Dimensions of Using Artificial Intelligence in Health Care - Artificial intelligence (AI), https://t.co/eLobHjuqNj #ai
+__label__Cloud	"<p>While running data source as browser mode all request from browser directly goes to data source</p>
+
+<p>But while choosing server mode request goes from browser to grafana backend (Server node where grafana is installed ) and from there it redirect to data source.</p>
+
+<p>If you are using server mode then make sure if you are able to access AWS ES url from machine where Grafana is hosted. </p>
+"
+__label__AI	AI: Artificial Intelligence Or Artificial Idiocy? - Seeking Alpha: AI: Artificial Intelligence Or Artificial Idiocy... https://t.co/unbxrGqjr0
+__label__Cloud	"<p><code>Promise.all()</code> and <a href=""https://firebase.google.com/docs/reference/admin/node/admin.messaging.Messaging?authuser=0#send"" rel=""nofollow noreferrer""><code>admin.messaging().send()</code></a> both return a Promise, therefore you need to chain those promises.</p>
+
+<p>However it is not clear why you do </p>
+
+<pre><code>const value = snap.data().original;
+        console.log('notifying ' + value);
+
+        return Promise.all([value])
+        .then(result =&gt; {
+            const value = result[0].data().value;
+            ...
+</code></pre>
+
+<p>If you just want to use the value of <code>value</code> in your notification, you don't need to use <code>Promise.all()</code> at all and you should do as follows:</p>
+
+<pre><code>exports.makeUppercase = functions.firestore.document('messages/{messageId}')
+.onCreate((snap, context) =&gt; {
+    const value = snap.data().original;
+    console.log('notifying ' + value);
+
+     const payload = {
+         notification: {
+            title: ""Added"",
+            body: value + ""Data Added""  //Here we use value
+         }
+     };
+
+    return admin.messaging().send(payload, false)
+    .then(result =&gt; {  //Note that if you don't need the console.log you can get rid of this then()
+         console.log(""Notification sent!"");
+         return null;
+    });
+});
+</code></pre>
+"
+__label__AI	"The Integration of Artificial Intelligence and Blockchain
+
+The Integration of Artificial Intelligence and Blockchai... https://t.co/1paVOJN0V1"
+__label__AI	"CMS Announces Artificial Intelligence Health Outcomes Challenge - ""The Artificial Intelligence H https://t.co/lqQSvR6vjQ #ai"
+__label__AI	Artificial intelligence takes hold in Wisconsin - https://t.co/6shHyx8wTK (Milwaukee): Artificial intelligence take... https://t.co/mjT4A06aWr
+__label__AI	Artificial intelligence program mimics medical experts' eyes - BU News Service: Artificial intelligence program mim... https://t.co/tMaRoQU5fn
+__label__AI	Artificial Intelligence Begins to Disrupt the Forex Market - Artificial intelligence (AI) h https://t.co/RzZBeQsHVU #ai
+__label__Cloud	"PURPOSE OF CLOUD TOKEN (CTO) WALLET
+
+STORE, EXCHANGE, EARN &amp; SPEND
+
+Some facts about Cloud Token Wallet
+
+* Cloud To... https://t.co/Vss63lHOXT"
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__Cloud	"<p>In Firestore I am trying to update avatar (photoUrl) on multiple locations when the user changes the avatar.</p>
+
+<p>Data structure: <a href=""https://i.imgur.com/yOAgXwV.png"" rel=""nofollow noreferrer"">https://i.imgur.com/yOAgXwV.png</a></p>
+
+<p>Cloud function:</p>
+
+<pre><code>exports.updateAvatars = functions.firestore.document('users/{userID}').onUpdate((change, context) =&gt; {
+    const userID = context.params.userID;
+    const imageURL = change.after.data().avatar;
+
+    console.log(userID);
+    console.log(imageURL);
+});
+</code></pre>
+
+<p>With this cloud function, I am watching on user update changes. When the user changes avatar I got userID and a photo URL. Now I want to update all ""todos"" where participant UID is equal to userID.</p>
+"
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__Cloud	@Bradley They would be cloud servers deployed to Heroku for now and possibly AWS in the future
+__label__Cloud	"<p>I've written a cloud function which listens for deletes from firebase realtime database.  It works great if there is just one deletion -- the console shows that item as having been removed.</p>
+
+<p>However, if there are multiple deletes at the same time in my realtime database, my cloud function only gets triggered for one of these deletions!  What am I doing wrong?</p>
+
+<p><em>FYI: I create multiple simultaneous database deletes by closing a browser window with multiple tabs, each tab calling <code>remove</code> on an <code>onDisconnect</code> call.</em></p>
+
+<p><strong>The Cloud Function</strong></p>
+
+<pre><code>const functions = require('firebase-functions');
+const admin = require('firebase-admin');
+admin.initializeApp();
+
+exports.onPresenceRemove =
+  functions
+  .database
+  .ref('/status/{app_id}')
+  .onDelete( (snapshot, context) =&gt; {
+    const original = snapshot.val();
+    console.error( 'snapshot', original, snapshot, context );
+    return true;
+  });
+</code></pre>
+
+<p><strong>The js Realtime Database Code</strong></p>
+
+<pre><code>presenceDoc =
+firebase
+.database()
+.ref( `/status/${ appId }` );
+
+firebase
+.database()
+.ref( '.info/connected' )
+.on( 'value', function( snapshot ) {
+  if ( snapshot.val() === true ) {
+
+    presenceRef =
+    presenceDoc
+    .push( userId );
+
+    presenceRef
+    .onDisconnect()
+    .remove();
+  }
+});
+</code></pre>
+"
+__label__AI	Artificial intelligence improves power transmission - EurekAlert: Artificial intelligence improves power transmissi... https://t.co/G3GygypfUg
+__label__AI	Artificial intelligence meets WGBH's archives | BrandeisNOW - Brandeis University: Artificial intelligence meets WG... https://t.co/XZ564Y7BqH
+__label__Cloud	The Firebase Admin SDK just wraps the existing Cloud SDK for each platform.
+__label__Cloud	You may have a problem with the  <code>res</code> variable. It seems it is at the same time holding a value and being the response variable for the HTTPS Cloud Function.... Can you update the question with the <b>entire</b> code of the Cloud Function.
+__label__AI	Artificial intelligence can detect childhood depression - https://t.co/Htir56TfQz: Artificial intelligence can dete... https://t.co/GUkZAjL5Ny
+__label__AI	Researchers use artificial intelligence to design flood evacuation plans - Artificial intelligence may so https://t.co/AvJwo0kbqm #ai
+__label__AI	RT @into_AI: Artificial intelligence for software engineering - Artificial intelligence is pre https://t.co/EvKl1jDBgJ #ai
+__label__AI	Setting a precedent in the use of artificial intelligence - Artificial intelligence (AI) c https://t.co/auGPzxVFcy #ai
+__label__AI	Artificial Intelligence in Aviation and Travel - CIOReview: Artificial Intelligence in Aviation and Travel  CIORevi... https://t.co/z7Or4YnQnk
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__Cloud	"<p>I am using cheerio to scrap goodreads.com (example page: <a href=""https://www.goodreads.com/book/show/2"" rel=""nofollow noreferrer"">https://www.goodreads.com/book/show/2</a>). The code is below. The code initially works and I get the desired response from the server. However, after two successful attempts, the http response from goodreads returns with 403 (Forbidden). The forbidden response goes away after a few minutes. Is there a way to fix this behavior? Rate limit multiple request?</p>
+
+<pre><code>require('dotenv').config();
+const cheerio = require('cheerio');
+const axios = require('axios');
+
+var xpath = require('xpath'),
+  dom = require('xmldom').DOMParser;
+
+module.exports = {
+  async searchBooks(req, res, next) {
+    const booksArray = [];
+    const { searchTerm, searchField } = req.body;
+    axios
+      .get('https://www.goodreads.com/search/index.xml', {
+        params: {
+          q: searchTerm,
+          page: null,
+          key: process.env.GOODREADS_KEY,
+          'search[field]': searchField
+        }
+      })
+      .then(result =&gt; {
+        const xml = result.data;
+        var doc = new dom().parseFromString(xml);
+        const idsArr = xpath.select('//best_book/id', doc);
+        const titlesArr = xpath.select('//title', doc);
+        const namesArr = xpath.select('//name', doc);
+        for (let i = 0; i &lt; idsArr.length; i++) {
+          const bookObject = {
+            id: idsArr[i].firstChild.data,
+            title: titlesArr[i].firstChild.data,
+            author: namesArr[i].firstChild.data
+          };
+          booksArray.push(bookObject);
+        }
+        const urls = idsArr.map((id, index) =&gt; {
+          return `https://www.goodreads.com/book/show/${id.firstChild.data}`;
+        });
+        return urls;
+      })
+      .then(async urls =&gt; {
+        const promiseArray = urls.map(url =&gt; axios.get(url));
+        const results = await Promise.all(promiseArray);
+        const imgUrls = results.map((result, index) =&gt; {
+          const $ = cheerio.load(result.data);
+          const imgUrl = $('#coverImage').attr('src');
+          return imgUrl;
+        });
+        for (let i = 0; i &lt; imgUrls.length; i++) {
+          booksArray[i].image = imgUrls[i];
+        }
+        return res.json(booksArray);
+      });
+  }
+};
+
+</code></pre>
+
+<p>EXPECTED:</p>
+
+<pre><code>[
+  {
+    ""id"": ""49628"",
+    ""title"": ""Cloud Atlas"",
+    ""author"": ""David Mitchell"",
+    ""image"": ""https://images.gr-assets.com/books/1406383769l/49628.jpg""
+  },
+  {
+    ""id"": ""6795"",
+    ""title"": ""The Cloud Atlas"",
+    ""author"": ""Liam Callanan"",
+    ""image"": ""https://images.gr-assets.com/books/1388200445l/6795.jpg""
+  },
+  {
+    ""id"": ""6797"",
+    ""title"": ""Cloud Atlas"",
+    ""author"": ""Donald Platt"",
+    ""image"": ""https://images.gr-assets.com/books/1165604675l/6797.jpg""
+  },
+  {
+    ""id"": ""9113096"",
+    ""title"": ""Cloud Atlas (Novel)"",
+    ""author"": ""Frederic P.  Miller"",
+    ""image"": ""https://images.gr-assets.com/books/1348108862l/9113096.jpg""
+  },
+  {
+    ""id"": ""42964582"",
+    ""title"": ""Cloud Atlas"",
+    ""author"": ""Lana Wachowski, Lilly Wachowski"",
+    ""image"": ""https://images.gr-assets.com/books/1543315136l/42964582.jpg""
+  },
+  {
+    ""id"": ""36514377"",
+    ""title"": ""Cloud Atlas"",
+    ""author"": ""Aileen Brennigan"",
+    ""image"": ""https://images.gr-assets.com/books/1509527373l/36514377.jpg""
+  },
+  {
+    ""id"": ""6270907"",
+    ""title"": ""International Cloud Atlas, Vol. 2"",
+    ""author"": ""G.O.P. Obasi"",
+    ""image"": ""https://images.gr-assets.com/books/1408629611l/6270907.jpg""
+  },
+  {
+    ""id"": ""17981504"",
+    ""title"": ""Cloud Atlas (Web Toon/Manwa)"",
+    ""author"": ""SIU"",
+    ""image"": ""https://images.gr-assets.com/books/1369643486l/17981504.jpg""
+  },
+  {
+    ""id"": ""20336925"",
+    ""title"": ""Cloud Atlas: A BookCaps Study Guide"",
+    ""author"": ""BookCaps"",
+    ""image"": ""https://images.gr-assets.com/books/1388272670l/20336925.jpg""
+  },
+  {
+    ""id"": ""16453357"",
+    ""title"": ""Cloud Atlas (Novel)"",
+    ""author"": ""Jesse Russell"",
+    ""image"": ""https://images.gr-assets.com/books/1356198781l/16453357.jpg""
+  },
+  {
+    ""id"": ""24416536"",
+    ""title"": ""Anarchici - Matrix, Cloud Atlas"",
+    ""author"": ""Flavia Monceri"",
+    ""image"": ""https://images.gr-assets.com/books/1420884508l/24416536.jpg""
+  },
+  {
+    ""id"": ""254004"",
+    ""title"": ""The Cloud Atlas Of China"",
+    ""author"": ""National Meteorological Service of China""
+  },
+  {
+    ""id"": ""36368685"",
+    ""title"": ""Weather: An Illustrated History: From Cloud Atlases to Climate Change"",
+    ""author"": ""Andrew Revkin"",
+    ""image"": ""https://images.gr-assets.com/books/1530073964l/36368685.jpg""
+  },
+  {
+    ""id"": ""28288713"",
+    ""title"": ""Histopias: From the Bible to Cloud Atlas"",
+    ""author"": ""Dragos Moraru""
+  },
+  {
+    ""id"": ""1522255"",
+    ""title"": ""International Cloud Atlas: Volume I--Manual on the Observations of Clouds and Other Meteors"",
+    ""author"": ""World Meteorological Organization""
+  },
+  {
+    ""id"": ""18949690"",
+    ""title"": ""Atlas Cloud and the Witch of the West (Atlas Cloud Saga)"",
+    ""author"": ""L.M.J. Rayner"",
+    ""image"": ""https://images.gr-assets.com/books/1385411062l/18949690.jpg""
+  },
+  {
+    ""id"": ""21898982"",
+    ""title"": ""Cloud Atlas by David Mitchell l Summary &amp; Study Guide"",
+    ""author"": ""BookRags"",
+    ""image"": ""https://images.gr-assets.com/books/1397316499l/21898982.jpg""
+  },
+  {
+    ""id"": ""3338750"",
+    ""title"": ""Cloud Atlas I, II, III: For Piano"",
+    ""author"": ""Toshi Ichiyanagi""
+  },
+  {
+    ""id"": ""34169332"",
+    ""title"": ""Postmodernism and Time in David Mitchell's Ghostwritten and Cloud Atlas"",
+    ""author"": ""Hoo-Ting Miranda Li""
+  },
+  {
+    ""id"": ""19675573"",
+    ""title"": ""Postmodernist Intertextuality in David Mitchell's Cloud Atlas"",
+    ""author"": ""Martina Hrubes"",
+    ""image"": ""https://images.gr-assets.com/books/1387742749l/19675573.jpg""
+  }
+]
+</code></pre>
+
+<p>ACTUAL:</p>
+
+<p>POST /api/goodreads/search - - ms - -
+(node:63327) UnhandledPromiseRejectionWarning: Error: Request failed with status code 403)</p>
+"
+__label__Cloud	"<p>I read that I have to prepare my app in advance for Android Q release because then the common filesystem access could be deprecated, if they do not withdraw the new way of managing files.</p>
+
+<p>I have not so many lines of codes to change, luckily.</p>
+
+<p>The fact is that the Storage Access Framework seems to have some issues. And it is here from Kitkat, I see (I did not know it). Otherwise my code is wrong.</p>
+
+<p>I am not able to simply make the user choose a folder on the cloud storage so to get the Uri in return, to further populate that folder.</p>
+
+<p>When I use the sample code found at </p>
+
+<p><a href=""https://github.com/android/storage/tree/228c8e0aa19586bfcf36318ddb191719537a45a4/ActionOpenDocumentTree#action_open_document_tree"" rel=""nofollow noreferrer"">https://github.com/android/storage/tree/228c8e0aa19586bfcf36318ddb191719537a45a4/ActionOpenDocumentTree#action_open_document_tree</a></p>
+
+<p>and put it in my app, it happens that the user cannot select a cloud storage root but only disk locations.</p>
+
+<p>[I wrote other code with some hacks that at least lead to having the cloud folder Uri back in the onActivityResult method.
+Same paths:</p>
+
+<pre><code>&lt;paths xmlns:android=""http://schemas.android.com/apk/res/android""&gt;
+&lt;files-path name=""filesPath"" path=""/""/&gt;
+&lt;external-path name=""externalPath"" path=""/""/&gt;
+&lt;external-files-path name=""externalFilesPath"" path=""/""/&gt;
+&lt;/paths&gt;
+</code></pre>
+
+<p>It encompasses using a different intent Action but it still does not serve my purposes, the middleware doesn't like it so it breaks <a href=""https://stackoverflow.com/questions/56393407/storage-access-framework-failing-to-obtain-document-tree-from-uri-returned-fr"">Storage Access Framework - failing to obtain document tree from uri (returned from Drive app)</a> ]</p>
+
+<p>How to have the user select a folder on the cloud provider and how to get the uri?</p>
+"
+__label__AI	Artificial Intelligence Oversight Risks - Directors and Boards: Artificial Intelligence Oversight Risks  Directors... https://t.co/lA0aMf7vHV
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	RT @into_AI: The curse of Artificial Intelligence - The artificial intelligence co https://t.co/OJotlPVHQp #ai
+__label__AI	Exploring artificial intelligence in K-12 education - Artificial intelligence ranks https://t.co/oU3F48Oqcl #ai
+__label__Cloud	"<p>I am building a Business Intelligent chat bot where data is retrieved from APIs. I am making the API calls from cloud functions filtering and returning the data.  </p>
+
+<p>I can make calls while I am connected to VPN but not from outside (IBM cloud functions)</p>
+
+<pre class=""lang-py prettyprint-override""><code>import requests
+import pandas as pd
+def reports(api_url):
+    r = requests.get(url)['Body']
+    df = pd.read_json(r)
+    #filtered report
+    filtered_df = df[df['state']=='CA']
+    return filtered_df.to_json()
+
+
+</code></pre>
+
+<p>The above api_url is private. I get HTTP connection error when called IBM cloud functions.</p>
+"
+__label__AI	RT @into_AI: Artificial Intelligence BREAKTHROUGH: Magnet networks 'mimic' human BRAIN activity - Artificial intelligence https://t.co/QFba...
+__label__AI	RT @into_AI: Artificial intelligence in rail: Hype or reality? - Is artificial intelligence (AI https://t.co/t6WUpNap6r #ai
+__label__Cloud	Managing VMware Cloud on AWS with Cloud Automation Services https://t.co/xL2UatDY1J
+__label__Cloud	Building a Strong Cloud Platform_ Cloud Architecture 101 https://t.co/6fpUKRT2Cm #SmallBusiness #ManagedIT... https://t.co/jXNYuwnkhf
+__label__Cloud	"<p>As if you want your app to run in > 24 versions too, follow these:</p>
+
+<p>1.Add this in your strings.xml</p>
+
+<blockquote>
+  <p>&lt; string name=""default_notification_channel_id"" translatable=""false"">
+  fcm_default_channel </p>
+</blockquote>
+
+<ol start=""2"">
+<li>Add this meta-data in your manifest file:</li>
+</ol>
+
+<blockquote>
+  <p>&lt; meta-data
+              android:name=""com.google.firebase.messaging.default_notification_channel_id""
+              android:value=""@string/default_notification_channel_id"" /></p>
+</blockquote>
+
+<p>3.for creating notifications (with images) use this method where you are handling notifications, if directly then add in the firebasemessaging service or if you are using some util class then add in that util class :</p>
+
+<pre><code>   @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN)
+    public static void createBigNotification(Bitmap bitmap, int icon, String message, Uri alarmSound) {
+        final int NOTIFY_ID = 0; // ID of notification
+        NotificationManager notificationManager = (NotificationManager) mContext.getSystemService(NOTIFICATION_SERVICE);
+        String id = mContext.getString(R.string.default_notification_channel_id); // default_channel_id
+        String title = mContext.getString(R.string.app_name);
+        Intent intent;
+        NotificationCompat.Builder builder;
+        if (notificationManager == null) {
+            notificationManager = (NotificationManager) mContext.getSystemService(Context.NOTIFICATION_SERVICE);
+        }
+        PendingIntent resultPendingIntent;
+        if (Build.VERSION.SDK_INT &gt;= Build.VERSION_CODES.O) {
+            int importance = NotificationManager.IMPORTANCE_HIGH;
+            NotificationChannel mChannel = notificationManager.getNotificationChannel(id);
+            if (mChannel == null) {
+                mChannel = new NotificationChannel(id, title, importance);
+                mChannel.enableVibration(true);
+                mChannel.setVibrationPattern(new long[]{100, 200, 300, 400, 500, 400, 300, 200, 400});
+                notificationManager.createNotificationChannel(mChannel);
+            }
+            builder = new NotificationCompat.Builder(mContext, id);
+            intent = new Intent(mContext, MainActivity.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
+            resultPendingIntent = PendingIntent.getActivity(mContext, 0, intent, 0);
+            NotificationCompat.BigPictureStyle bigPictureStyle = new NotificationCompat.BigPictureStyle();
+            bigPictureStyle.setBigContentTitle(title);
+            bigPictureStyle.setSummaryText(Html.fromHtml(message).toString());
+            bigPictureStyle.bigPicture(bitmap);
+
+            builder.setContentTitle(title)        // required
+                    .setSmallIcon(R.drawable.app_icon)   // required
+                    .setContentText(message) // required
+                    .setDefaults(Notification.DEFAULT_ALL)
+                    .setAutoCancel(true)
+                    .setSound(alarmSound)
+                    .setStyle(bigPictureStyle)
+                    .setContentIntent(resultPendingIntent)
+                    .setLargeIcon(BitmapFactory.decodeResource(mContext.getResources(), icon))
+                    .setTicker(title)
+                    .setVibrate(new long[]{100, 200, 300, 400, 500, 400, 300, 200, 400});
+        } else {
+            builder = new NotificationCompat.Builder(mContext, id);
+            intent = new Intent(mContext, MainActivity.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
+            resultPendingIntent = PendingIntent.getActivity(mContext, 0, intent, 0);
+            NotificationCompat.BigPictureStyle bigPictureStyle = new NotificationCompat.BigPictureStyle();
+            bigPictureStyle.setBigContentTitle(title);
+            bigPictureStyle.setSummaryText(Html.fromHtml(message).toString());
+            bigPictureStyle.bigPicture(bitmap);
+
+            builder.setContentTitle(title)     // required
+                    .setSmallIcon(R.drawable.app_icon)   // required
+                    .setContentText(message) // required
+                    .setDefaults(Notification.DEFAULT_ALL)
+                    .setAutoCancel(true)
+                    .setSound(alarmSound)
+                    .setStyle(bigPictureStyle)
+                    .setContentIntent(resultPendingIntent)
+                    .setLargeIcon(BitmapFactory.decodeResource(mContext.getResources(), icon))
+                    .setTicker(title)
+                    .setVibrate(new long[]{100, 200, 300, 400, 500, 400, 300, 200, 400})
+                    .setPriority(Notification.PRIORITY_HIGH);
+        }
+        Notification notification = builder.build();
+        notificationManager.notify(NOTIFY_ID, notification);
+    }
+</code></pre>
+
+<p>Follow these steps and your notification will come in the notification tray.</p>
+"
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__Cloud	"<blockquote>
+  <p>I need to make a http function that only calls one time (at launch) and after that runs every 5 minutes to check data and if that data is 2 hours old we clear it.</p>
+</blockquote>
+
+<p>For that you should use schedule functions, which are now supported under Firebase. See the blog post <a href=""https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html"" rel=""nofollow noreferrer"">Scheduling Cloud Functions for Firebase (cron)</a>, which contains this very relevant example for your use-case:</p>
+
+<blockquote>
+<pre><code>export scheduledFunctionPlainEnglish =
+functions.pubsub.schedule('every 5 minutes').onRun((context) =&gt; {
+    console.log('This will be run every 5 minutes!');
+});
+</code></pre>
+</blockquote>
+
+<hr>
+
+<p>The way you're now trying to implement the use-case won't work. Cloud Functions has a hard upper limit of 9 minutes before it kills a function instance.</p>
+"
+__label__Cloud	VMware Cloud on AWS: Seamlessly extend data center to cloud https://t.co/2GvUbkBONo
+__label__Cloud	How do you plan on storing the data? In CoreData or some cloud database?
+__label__Cloud	Cloud environments often use a hybrid cloud approach that combines private and public cloud shares. Why that can ma... https://t.co/I7A9szEb9T
+__label__AI	How artificial intelligence can make medicine more human - Artificial Intelligence will m https://t.co/SwIgxPSGMt #ai
+__label__AI	RT @into_AI: Artificial intelligence tested in diagnosing aneurysms - Artificial intelligence tested https://t.co/h77dGqzcsC #ai
+__label__Cloud	"<p>How do I arrange my tasks according to the level of prioritization I set? That is, the tasks in the first rows will have the highest priority level, then high-priority tasks will be displayed, and so on.</p>
+
+<p>I created a filter that arranges the tasks according to the level of prioritization, but in practice, it seems that it does not inconsiderate the filter's Order By.
+I also changed the type of issue to Story, but the task remained in the same position.</p>
+"
+__label__AI	What is Artificial Intelligence | Artificial Intelligence Tutorial For Beginners by @edurekain rt @jose_garde #ai... https://t.co/m2RuJrXMRe
+__label__Cloud	"<p>My task is somehow watch for new updates in logs locally.
+I've looked for something like watch mode for cloud function logs: <code>gcloud functions logs read MyFunctionNmae --watch</code>. Or <code>firebase functions:log --only FunctionName --watch</code>
+As I see for now it is not possible, tools don't provide this option.</p>
+
+<p>I would really appreciate if someone could suggest any ideas how I can watch for new cloud function logs updates.</p>
+"
+__label__AI	#Books2Watch | Artificial Intelligence in Practice: How 50 Successful Companies Used Artificial Intelligence to Sol... https://t.co/5piUJh0hE7
+__label__AI	Future of Defence is Artificial Intelligence - Artificial intelligence (AI) t https://t.co/0V79h08ofR #ai
+__label__AI	"
+
+"
+__label__Cloud	NASCAR Selects AWS as Its Preferred Cloud Computing, Cloud Machine Learning, and Cloud Artificial Intelligence Prov... https://t.co/urLu1artst
+__label__Cloud	"<p>It seems that we set the order the wrong way - setting the lower priority route to order 1 and the higher to 0 makes it work.</p>
+
+<p>@spencergibb that would be definitely worth to be mentioned in the documentation.</p>
+"
+__label__Cloud	Cloud Big Data Engineer: Cloud Big Data Engineer-New York Location: New York City Technology: Cloud Big Data Job Ty... https://t.co/R77xoAqiV2
+__label__Cloud	"RT @Logicalis_IRE: Oracle Cloud at Customer
+Self contained behind your firewall
+ Same software as public cloud
+ Fully managed cloud by..."
+__label__Cloud	Moving from Cloud First to Cloud Smart https://t.co/VOiYAFcMnZ #Cloud #CloudComputing https://t.co/3a6K6PjdF6
+__label__Cloud	Scalable Cloud Versus On-Demand Cloud Hosting Solutions #CloudComputing #Cloud #CloudHosting  https://t.co/l6uAjiaZkZ
+__label__AI	Building blocks for artificial intelligence - https://t.co/zHCFtSCGML: Building blocks for artificial intelligence ... https://t.co/pAo4TLNxbW
+__label__AI	Artificial Intelligence to conquer the world in 50 years - Artificial Intelligence is goi https://t.co/ipwyv6GzPn #ai
+__label__Cloud	"<p>I need to extract the params from http url in firestore cloud function,<br>
+HTTP URL</p>
+
+<pre><code> https://us-central-xxxxxxxxxxx.cloudfunctions.net/somefunction?name=ABC&amp;age=80
+</code></pre>
+
+<p>Firestore Cloud function</p>
+
+<pre><code>export const somefunction = functions.https.onRequest(async (request, response) =&gt; {
+  var name = // need to extract name from request
+  var age = // similarly need to extract age from request
+}
+</code></pre>
+
+<p>Can anyone help me out with this ?</p>
+"
+__label__AI	QUIZ: Artificial Intelligence and Machine Learning in Business - Techopedia: QUIZ: Artificial Intelligence and Mach... https://t.co/B7C3KaOtNl
+__label__Cloud	"<p>Please check if the way you are specifying profile name is correct and if it is getting resolved properly in Java code. You can implement CommandLineRunner and print active profiles from Environment variable. </p>
+
+<p>If you specified property native in pom.xml, you can resolve it in application/yaml file as @spring.profiles.active@</p>
+
+<p>If you specified property file as VM argument, then it should work with current implementation. </p>
+
+<p>If you did not specify spring.profiles.active in pom or VM argument, it will resolve to default profile, not native profile. Profile in config client and config server should be same.</p>
+"
+__label__AI	Using Artificial Intelligence to Predict Violence in Movies - Using Artificial Intelligence https://t.co/rh11iKAmk2 #ai
+__label__AI	Artificial Intelligence Revolutionizing Technology in India - Artificial Intelligence (AI) i https://t.co/nF35o5Yg8s #ai
+__label__Cloud	"<p>I am new to Cloud Data Fusion.
+I want to combine two CSV files.
+The two files have the same column.
+In Cloud Data Fusion, I could find the ""joiner"" but not the union feature.
+Could someone tell me how to union multiple CSV files with the same structure?</p>
+"
+__label__AI	Artificial Intelligence (AI) and rheumatology - Artificial Intelligence (AI) i https://t.co/sywCKIfEqy #ai
+__label__Cloud	"I currently work in the Cloud practice of a major MSP as an Analyst supporting
+the consultants sell cloud solutions and the architects in the planning and
+design phase.
+
+I have an opportunity to either progress into a solution engineering role or
+become a Cloud Architect. My organisation has made it clear that regardless of
+the two pathways I go down, they'll provide the support and training that I'll
+need in order for me to achieve that end goal. That means all the Azure/and or
+AWS certifications.
+
+My question: is it possible to make the jump from Analyst straight to
+Architect without much experience as a cloud engineer?
+
+Although I spent 6 months as a junior python developer, my technical
+background within the cloud is limited.
+
+What advice would you have for someone in my position?
+
+Many thanks in advance!
+
+"
+__label__Cloud	"<p>I would like to customize the naming strategy of the Avro schema subjects in Spring Cloud Stream Producers, Consumers and KStreams.</p>
+
+<p>This would be done in Kafka with the properties <code>key.subject.name.strategy</code> and <code>value.subject.name.strategy</code> -> <a href=""https://docs.confluent.io/current/schema-registry/serializer-formatter.html#subject-name-strategy"" rel=""nofollow noreferrer"">https://docs.confluent.io/current/schema-registry/serializer-formatter.html#subject-name-strategy</a></p>
+
+<p>In a native Kafka Producer this works:</p>
+
+<pre><code>
+private val producer: KafkaProducer&lt;Int, Customer&gt;
+
+    init {
+        val props = Properties()
+        ...
+        props[AbstractKafkaAvroSerDeConfig.SCHEMA_REGISTRY_URL_CONFIG] = ""http://localhost:8081""
+        props[AbstractKafkaAvroSerDeConfig.VALUE_SUBJECT_NAME_STRATEGY] = TopicRecordNameStrategy::class.java.name
+        producer = KafkaProducer(props)
+    }
+
+    fun sendCustomerEvent(customer: Customer) {
+        val record: ProducerRecord&lt;Int, Customer&gt; = ProducerRecord(""customer"", customer.id, customer)
+        producer.send(record)
+    }
+</code></pre>
+
+<p>However I cannot find how to do this in Spring Cloud Stream. So far I have tried this in a producer:</p>
+
+<pre><code>spring:
+  application:
+    name: spring-boot-customer-service
+  cloud:
+    stream:
+      kafka:
+        bindings:
+          output:
+            producer:
+              configuration:
+                key:
+                  serializer: org.apache.kafka.common.serialization.IntegerSerializer
+                value:
+                  subject:
+                    name:
+                      strategy: io.confluent.kafka.serializers.subject.TopicRecordNameStrategy
+</code></pre>
+
+<p>Apparently Spring Cloud uses it's own subject naming strategy with the interface <code>org.springframework.cloud.stream.schema.avro.SubjectNamingStrategy</code> and only one subclass: <code>DefaultSubjectNamingStrategy</code>.</p>
+
+<p>Is there declarative way of configuring <code>value.subject.name.strategy</code> or are we expected to provide our own <code>org.springframework.cloud.stream.schema.avro.SubjectNamingStrategy</code> implementation and the property <code>spring.cloud.stream.schema.avro.subject-naming-strategy</code>?</p>
+"
+__label__Cloud	#oracle cloud https://t.co/z6T70XkGNj
+__label__Cloud	The file is on my physical disk, the server running MySQL is in the Amazon cloud
+__label__Cloud	Cloud Security Alliance Debuts Internet of | Cloud Security Alliance https://t.co/FKRYWjGs9R #iot
+__label__AI	RT @into_AI: Artificial intelligence gains more acceptance in ophthalmology - Artificial intelligence (AI) i https://t.co/tRVSrITmx7 #ai
+__label__AI	What is Artificial Intelligence | Artificial Intelligence Tutorial For Beginn... by @edurekain #ai https://t.co/ShmUiBIXWN via @SlideShare
+__label__AI	RT @into_AI: US evangelicals issue principles on benefits, challenges of artificial intelligence - Artificial intelligence https://t.co/USi...
+__label__AI	"Artificial Intelligence Class: Today's subject. Why Artificial Intelligence can never, ever become ""self aware."" I... https://t.co/gcL0D7z7z9"
+__label__Cloud	RT @SAPdevs: Leveraging OData, SAP Gateway, SAP Cloud Platform Cloud Connector, SAP Cloud Platform API Management and SAP Cloud Platform Wo...
+__label__Cloud	"<p>I have created a spring boot project in Java, it works perfectly fine with my local database but I am not able to connect it to my GCP postgres cloud SQL instance.</p>
+
+<p>I have followed the below steps: <a href=""https://cloud.spring.io/spring-cloud-gcp/multi/multi__spring_jdbc.html"" rel=""nofollow noreferrer"">https://cloud.spring.io/spring-cloud-gcp/multi/multi__spring_jdbc.html</a>
+I also did the required changes in the pom.xml.
+Is there anything I need to change in the application.properties file?</p>
+
+<pre><code>spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.hibernate.ddl-auto=none
+spring.jpa.hibernate.show-sql=true
+spring.datasource.url=jdbc:postgresql://localhost:5432/postgres
+spring.datasource.username=postgres
+spring.datasource.password=postgres
+spring.datasource.initialization-mode=always
+spring.datasource.initialize=true
+spring.datasource.schema=classpath:/schema.sql
+spring.datasource.continue-on-error=true
+</code></pre>
+
+<p>I want my project to working properly, pointing to cloud database.</p>
+"
+__label__AI	Artificial intelligence - Genuinely unintelligent without high-quality data - Artificial intelligence - Genu https://t.co/DzD5RHMwin #ai
+__label__Cloud	Mainframes: The Cloud Before the Cloud https://t.co/8lSjPno3Tl #CloudComputing #ibm https://t.co/OgpEJ4bPmS
+__label__Cloud	NASCAR Selects AWS as Its Preferred Cloud Computing, Cloud Machine Learning, and Cloud Artificial Intelligence Prov... https://t.co/dAIz14S5rV
+__label__AI	RT @into_AI: Artificial Intelligence Takes Over Restaurant Reservations - Artificial intelligence (AI) i https://t.co/acKsl25rxq #ai
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	RT @into_AI: Revolutionising manufacturing with artificial intelligence - Artificial intelligence is the https://t.co/rBgleDknoA #ai
+__label__Cloud	"# Difference between Sales Cloud and Service Cloud Sales Cloud
+
+ **Sales Cloud**
+
+* âSales Cloudâ refers to the âsalesâ module in [Salesforce.com](http://salesforce.com/)
+* It includes Leads, Accounts, Contacts, Contracts, Opportunities, Products, Price books, Quotes, and Campaigns (limits apply).
+* It includes features such as Web-to-lead to support online lead capture, with auto-response rules.
+* It is designed to be a start-to-end setup for the entire sales process; you use this to help generate revenue.
+
+ **Service Cloud**
+
+*âService Cloudâ refers to the âserviceâ (as in âcustomer serviceâ) module in [Salesforce.com](http://salesforce.com/).
+* It includes Accounts, Contacts, Cases, and Solutions.
+* It also encompasses features such as the Public Knowledge Base, Web-to-case, Call Center, and the Self-Service Portal, as well as customer service automation (e.g. escalation rules, assignment rules).
+* It is designed to allow you to support past, current, and future clientsâ requests for assistance with a product, service, billing, etc; you use this to help make people happy.
+* The differences between Sales Cloud and Service Cloud are the same across each âeditionâ (âprofessionalâ, âenterpriseâ and âunlimitedâ), mainly outlined above.
+* The differences, as you can gather from the prior paragraphs, is that each cloud is designed to support a specific set of features that you would use to sell services and products, and support those services and products (respectively).
+
+The main differences you will find are the limits between each edition.
+Professional Edition provides basic functionality; you can create limited
+customized UI pages (Visualforce), and you can use standard automation (e.g.
+assignment, escalation, and auto-response rules).
+Enterprise Edition provides additional features, including custom automation
+(e.g. workflow rules, Apex Code), improved Visualforce functionality,
+integration (API) access, generally increased limits, and additional
+customization features (e.g. more fields per object). Unlimited Edition is an
+extension of Enterprise Edition and includes more storage space, premier
+support, more objects, increased API limits, and so on.
+
+"
+__label__AI	RT @SuriyaSubraman: Walmart Bolsters Artificial Intelligence Efforts - https://t.co/jjSFlcn0XX: Walmart Bolsters Artificial Intelligence Ef...
+__label__Cloud	It works properly on my home pc. It does not work from cloud
+__label__AI	Artificial Intelligence Needs Data Diversity - Forbes: Artificial Intelligence Needs Data Diversity  Forbes For the... https://t.co/QnUJxio3wH
+__label__Cloud	Empowering VMware Cloud on AWS with Cloud Automation Services https://t.co/VwZab5mM61
+__label__AI	"Milan, March 14, 2019 - A group at Politecnico di Milano has developed an
+electronic circuit able to solve a system of linear equations in a single
+operation in the timescale of few tens of ns. The performance of this new
+circuit is superior not only to the classical digital computers, but also to
+the futuristic quantum computers: it will be soon possible to develop a new
+generation of computing accelerators that will revolutionize the technology of
+artificial intelligence.
+
+Solving a system of linear equations means finding the unknown vector x which
+satisfies the equation Ax = b, where A is a matrix of coefficients and b is a
+known vector. To solve this problem, a conventional digital computer executes
+an algorithm which takes several operations, thus translating into
+considerable time and energy consumption.
+
+The new circuit, which has been developed in the frame of the ERC European
+project RESCUE (Resistive switch computing beyond CMOS), solves systems of
+linear equations (Ax=b) thanks to an innovative method of in-memory computing,
+where the coefficients of matrix A are stored in a special device called
+memristor. The memristor is able to store analogue values, thus a memristor
+matrix can physically map a coefficient matrix A within the circuit, thus
+strongly accelerating the computation.
+
+The memristor array has been developed at the Clean Room of the Center for
+micro and nano fabrication Polifab of Politecnico di Milano. The memristor
+circuit has been tested and validated on a wide set of algebraic problems,
+such as the ranking of internet websites and the solution of complicated
+differential equations, such as the SchrÃ¶dinger equation for the computation
+of the quantum wavefunction for an electron. All these problems are solved in
+a single operation.
+
+These results have been published on the prestigious journal PNAS of the
+National Academy of Science of the USA. (See the link:
+[https://www.pnas.org/content/116/10/4123](https://www.pnas.org/content/116/10/4123))
+
+###
+
+**Disclaimer:** AAAS and EurekAlert! are not responsible for the accuracy of
+news releases posted to EurekAlert! by contributing institutions or for the
+use of any information through the EurekAlert system.
+
+"
+__label__AI	"2019 Human-Centered Artificial Intelligence Symposium
+
+Stanford University
+
+Human Artificial Intelligence
+Institute... https://t.co/C7GWwQpLLL"
+__label__AI	Using Artificial Intelligence to Advance Revenue Cycle Management - Using Artificial Intelligence https://t.co/EoN2MB3eNu #ai
+__label__Cloud	"<p>Yes it accepts it, but you must first, use the cloud_sql_proxy, and have the right permissions. Also this is not in the documentation as of the moment, neither as a warning nor as an official method. Still using an intermediary bucket for dumps is not of my liking.</p>
+
+<p>In Mac OS with latest mysqldump as of moment (posted of an example of the problems I encountered might vary with os and mysqldump version)</p>
+
+<pre><code>mysqldump --column_statistics=0 -h 127.0.0.1 -u &lt;user&gt; -p &lt;db&gt; --set-gtid-purged=OFF&gt; &lt;dumpFile&gt;
+
+// this is because I use the tcp connection sample for the cloud sql proxy
+mysql -h 127.0.0.1 -u &lt;user&gt; -p -D &lt;database&gt; &lt; DBs/mysqldump100519.sql
+</code></pre>
+"
+__label__Cloud	VMware Integrates Cloud Foundation with VxRail, Expands Its AWS Cloud https://t.co/pY1FSy2XDz
+__label__AI	RT @into_AI: Artificial intelligence projects now prolific across SA firms - Artificial intelligence projec https://t.co/wwdirg7AdK #ai
+__label__AI	"RT @inter_mkt: Artificial intelligence - See on Wikipedia
+In computer science, artificial intelligence (AI), https://t.co/MLDzvcLBen
+#AIT..."
+__label__AI	"Computers which are capable of teaching themselves to predict premature death
+could greatly improve preventative healthcare in the future, suggests a new
+study by experts at the University of Nottingham.
+
+The team of healthcare data scientists and doctors have developed and tested a
+system of computer-based 'machine learning' algorithms to predict the risk of
+early death due to chronic disease in a large middle-aged population.
+
+They found this AI system was very accurate in its predictions and performed
+better than the current standard approach to prediction developed by human
+experts. The study is published by _PLOS ONE_ in a special collections edition
+of ""Machine Learning in Health and Biomedicine.""
+
+The team used health data from just over half a million people aged between 40
+and 69 recruited to the UK Biobank between 2006 and 2010 and followed up until
+2016.
+
+Leading the work, Assistant Professor of Epidemiology and Data Science, Dr
+Stephen Weng, said: ""Preventative healthcare is a growing priority in the
+fight against serious diseases so we have been working for a number of years
+to improve the accuracy of computerised health risk assessment in the general
+population. Most applications focus on a single disease area but predicting
+death due to several different disease outcomes is highly complex, especially
+given environmental and individual factors that may affect them.
+
+""We have taken a major step forward in this field by developing a unique and
+holistic approach to predicting a person's risk of premature death by machine-
+learning. This uses computers to build new risk prediction models that take
+into account a wide range of demographic, biometric, clinical and lifestyle
+factors for each individual assessed, even their dietary consumption of fruit,
+vegetables and meat per day.
+
+""We mapped the resulting predictions to mortality data from the cohort, using
+Office of National Statistics death records, the UK cancer registry and
+'hospital episodes' statistics. We found machine learned algorithms were
+significantly more accurate in predicting death than the standard prediction
+models developed by a human expert.""
+
+The AI machine learning models used in the new study are known as 'random
+forest' and 'deep learning'. These were pitched against the traditionally-used
+'Cox regression' prediction model based on age and gender -- found to be the
+least accurate at predicting mortality -- and also a multivariate Cox model
+which worked better but tended to over-predict risk.
+
+Professor Joe Kai, one of the clinical academics working on the project, said:
+""There is currently intense interest in the potential to use 'AI' or 'machine-
+learning' to better predict health outcomes. In some situations we may find it
+helps, in others it may not. In this particular case, we have shown that with
+careful tuning, these algorithms can usefully improve prediction.
+
+""These techniques can be new to many in health research, and difficult to
+follow. We believe that by clearly reporting these methods in a transparent
+way, this could help with scientific verification and future development of
+this exciting field for health care.""
+
+This new study builds on previous work by the Nottingham team which showed
+that four different AI algorithms, 'random forest', 'logistic regression',
+'gradient boosting' and 'neural networks', were significantly better at
+predicting cardiovascular disease than an established algorithm used in
+current cardiology guidelines. This earlier study is available here.
+
+The Nottingham researchers predict that AI will play a vital part in the
+development of future tools capable of delivering personalised medicine,
+tailoring risk management to individual patients. Further research requires
+verifying and validating these AI algorithms in other population groups and
+exploring ways to implement these systems into routine healthcare.
+
+**Story Source:**
+
+[Materials](https://www.nottingham.ac.uk/news/pressreleases/2019/mar/artificial-
+intelligence-can-predict-premature-death-study-finds.aspx) provided by
+[**University of Nottingham**](http://www.nottingham.ac.uk). _Note: Content
+may be edited for style and length._
+
+"
+__label__AI	Using Artificial Intelligence To Customize Content Without Bias - Forbes: Using Artificial Intelligence To Customiz... https://t.co/ftKVollyAy
+__label__AI	Artificial Intelligence - The future of BFSI technology - https://t.co/yCB6RyFa7R: Artificial Intelligence - The fu... https://t.co/F35MdQocnJ
+__label__AI	UK government grapples with bias in artificial intelligence - Artificial intelligence (AI) h https://t.co/TFLSyucNOI #ai
+__label__Cloud	Cloud city.
+__label__AI	Artificial intelligence experts warn A.I. could be blessing or curse - OCRegister: Artificial intelligence experts... https://t.co/OqidQbTueb
+__label__Cloud	"combine <a href=""https://cloud.google.com/dns"" rel=""nofollow noreferrer"">Cloud DNS</a> and <a href=""https://letsencrypt.org"" rel=""nofollow noreferrer"">letsencrypt.org</a> to have it properly fixed (needs 1 public IP address)."
+__label__Cloud	"<p>By doing <code>exports.firstTest = functions.database.ref('first').onWrite()</code> you trigger your <code>firstTest</code> Cloud Function when data is created, updated, or deleted in the Realtime Database. It is called a <strong>background trigger</strong>, see <a href=""https://firebase.google.com/docs/functions/database-events?authuser=0"" rel=""nofollow noreferrer"">https://firebase.google.com/docs/functions/database-events?authuser=0</a></p>
+
+<p>With this trigger, everything happens <code>in the back-end</code> and you do not have access to a Request (or a Response) object. The Cloud Function doesn't have any notion of a front-end: for example it can be triggered by another back-end process that writes to the database. If you want to detect, in your front-end the result of the Cloud Function (for example the creation of a nee node) you would have to set a listener to listen to this new node location. </p>
+
+<hr>
+
+<p>On the other hand, if you want to call your function through an HTTP request (possibly from your front-end) and receive a response to the HTTP Request, you need to use another type of Cloud Function, the <strong>HTTP Cloud Function</strong>, see <a href=""https://firebase.google.com/docs/functions/http-events"" rel=""nofollow noreferrer"">https://firebase.google.com/docs/functions/http-events</a>. See also the other type of Cloud Function that you can call directly: the <a href=""https://firebase.google.com/docs/functions/callable?authuser=0"" rel=""nofollow noreferrer"">Callable Cloud Functions</a>.</p>
+
+<hr>
+
+<p>Finally, note that:</p>
+
+<ul>
+<li>With <code>.onWrite( event =&gt; {})</code>, you are using the old syntax, see <a href=""https://firebase.google.com/docs/functions/beta-v1-diff?authuser=0"" rel=""nofollow noreferrer"">https://firebase.google.com/docs/functions/beta-v1-diff?authuser=0</a></li>
+<li>The Firebase video series on Cloud Function is a good point to start to learn more on all these concepts, see <a href=""https://firebase.google.com/docs/functions/video-series?authuser=0"" rel=""nofollow noreferrer"">https://firebase.google.com/docs/functions/video-series?authuser=0</a></li>
+</ul>
+"
+__label__Cloud	"Storing data in the cloud might seem like a safe bet for many people, but
+risks will always exist. Below are the overview and the list of risks involved
+with data security security threats in cloud computing: [Top Cloud Data
+Security Risks, Threats, And Concerns](https://blog.panoply.io/top-cloud-
+security-threats-risks-and-concerns)
+
+  * Data Breaches
+
+  * Data Loss
+
+  * Hijacked Accounts - Compromised Credentials
+
+  * Hacked Interfaces and Insecure APIs
+
+  * DDoS and DoS Attacks
+
+  * Malicious Insiders
+
+  * Abusing Cloud Services
+
+  * Lacking or Insufficient Due Diligence
+
+  * Weak Authentication and Identity Management
+
+"
